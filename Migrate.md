@@ -41,6 +41,7 @@ _During this process, set and save your keystore password._
 ```bash
 ./dill-node accounts import --andes --wallet-dir ./keystore --keys-dir validator_keys/ --accept-terms-of-use
 ```
+Press 1 after inputing mnemonic word
 ### 7. Save Password to a File
 _Replace `<your-password>` with your actual password._
 ```bash
